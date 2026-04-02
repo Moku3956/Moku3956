@@ -1,20 +1,17 @@
-## こんにちは、Moku3956です。
+# こんにちは、Moku3956です。
 
 ### 🚀 自己紹介 / About Me
-現在(2026/04)、大学3回生です。
-主に **[Python, Go言語, TypeScript, JavaScript]**　を中心に、Webアプリケーションの開発に取り組んでいます。
+現在(2026/04)、大学3回生です。主に **[Python, Go言語, TypeScript, JavaScript]** を中心に、Webアプリケーションの開発に取り組んでいます。
 
 ---
 
 ### 🛠 技術スタック / Tech Stack
-![TypeScript]
-![React]
-![Python]
-![Go言語]
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
 ---
-
-
 
 ### 📊 GitHub Stats
 ![Moku's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moku3956&show_icons=true&theme=radical)
