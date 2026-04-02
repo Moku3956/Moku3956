@@ -4,11 +4,14 @@
 現在(2026/04)、大学3回生です。
 主に **[Python, Go言語, TypeScript, JavaScript]**　を中心に、Webアプリケーションの開発に取り組んでいます。
 
+---
+
 ### 🛠 技術スタック / Tech Stack
 ![TypeScript]
 ![React]
 ![Python]
 ![Go言語]
+
 ---
 
 
